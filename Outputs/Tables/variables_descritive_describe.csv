@@ -1,0 +1,7 @@
+,count,unique,top,freq
+submitted_complaint,3150,2,No,2909
+billing_level,3143,10,Very Low,1768
+age_bracket,3150,5,Middle Age,1425
+plan_type,3150,2,Pay as you go,2905
+account_status,3150,2,Active,2368
+has_churned,3150,2,No Churn,2655
