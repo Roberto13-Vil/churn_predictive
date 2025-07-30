@@ -1,7 +1,7 @@
 # 📉 Churn Prediction in Telecom Customers (Iranian Dataset)
 
 A complete churn prediction project using a telecom dataset from the UC Irvine Machine Learning Repository.  
-Includes data preprocessing, model training, and an interactive Streamlit dashboard with storytelling-driven visualizations.
+Includes data preprocessing, model training, and an interactive Streamlit dashboard with visualizations.
 
 ---
 
@@ -32,7 +32,7 @@ This project explores customer behavior using a real-world dataset from an Irani
 
 1. **Understand key drivers** of churn through EDA.
 2. **Train and evaluate** multiple classification models.
-3. Apply **feature importance and explainable AI** tools (e.g., SHAP).
+3. Apply **feature importance and explainable AI** tools.
 4. Deploy an **interactive Streamlit dashboard** to explore results and segment customer behavior.
 
 ---
