@@ -183,7 +183,6 @@ elif stage == '🧠 Churn Prediction':
         st.dataframe(df_user)
 
         st.subheader("🔮 Churn Prediction")
-        st.metric(label="Churn Probability", value=f"{prob:.2%}")
         st.metric(label="Is this customer likely to churn?", value="Yes" if pred else "No")
 
         if pred:
