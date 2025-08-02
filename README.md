@@ -38,3 +38,36 @@ This project explores customer behavior using a real-world dataset from an Irani
 ---
 
 ## 🧰 Tech Stack
+
+- **Languages**: Python
+- **Libraries**: pandas, numpy, scikit-learn, matplotlib, seaborn, PyTorch, joblib
+- **Deep Learning**: PyTorch (NN)
+- **Visualization**: seaborn, matplotlib, Plotly
+- **Deployment**: Streamlit
+- **Serialization**: joblib, torch.save
+
+## 🚀 Getting Started
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Roberto13-Vil/churn_predictive.git
+   cd churn_predictive
+2. Create a virtual environment and install dependencies:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run dashboard.py
+
+
+## ✅ Features Implemented
+
+- [x] Exploratory Data Analysis (EDA)
+- [x] Data Cleaning & Encoding
+- [x] Feature Scaling with `StandardScaler`
+- [x] Custom Neural Network in PyTorch
+- [x] Model Evaluation & Confusion Matrix
+- [x] Streamlit Dashboard with Prediction
